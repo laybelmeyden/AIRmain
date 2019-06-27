@@ -427,7 +427,7 @@ padding-bottom: 20px; color:#95969a;">
 
       <div class="col l12 pffff_dd center">
         <div class="col l2 s6 m6">
-          <a href="http://www.mts.ru/"><img src="assets/img/13.png" class="responsive-img rovn_part"></a>
+          <a href="http://www.mts.ru/"><img src="assets/img/MTS_Logo_rus_w_pre.jpg" class="responsive-img rovn_part grey_filter"></a>
 
         </div>
         <div class="col l2 s6 m6">
