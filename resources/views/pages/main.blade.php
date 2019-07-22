@@ -270,9 +270,9 @@ padding-bottom: 20px; color:#95969a;">
                 <div class="hyt">
                   <p class="n1">{{ $allnew->date }}</p>
                   <div class="iu2 kkk">
-                    <p class="n2">{!! str_limit($allnew->body, 200) !!}</p>
+                    <p class="n2">{!! $allnew->body !!}</p>
                   </div>
-                  <img src="storage/{{ $allnew->image }}" class="oi">
+                  <img src="/storage/{{ $allnew->image }}" class="oi">
                 </div>
               </a>
             </li>
