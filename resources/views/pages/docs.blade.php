@@ -22,6 +22,16 @@
 
 
     <p class="its_1">Наши документы:</p>
+    <li>
+     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+
+     <a href="https://vk.com/doc22052708_516634692?hash=6b3bbadd39c10f1760&dl=4baf9e95d2fbbb9931" target="blank" class="edu_uli_1">Положение о конкурсном отборе Региональных Партнеров</a>
+   </li>
+   <li>
+     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+
+     <a href="https://vk.com/doc22052708_516634658?hash=f5bab6672a7223b9aa&dl=7ac7179a2718724991" target="blank" class="edu_uli_1">Приказ №34</a>
+   </li>
              <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
