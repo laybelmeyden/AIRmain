@@ -491,6 +491,9 @@ padding-bottom: 20px; color:#95969a;">
         <div class="col l2 s6 m6">
           <a href="https://vk.com/noirf"><img src="assets/img/weeert.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
+        <div class="col l2 s6 m6">
+          <a href="https://coddyschool.com"><img src="assets/img/logo-coddy-blue.png" class="responsive-img rovn_part grey_filter small_k"></a>
+        </div>
         
       </div>
     </div>
