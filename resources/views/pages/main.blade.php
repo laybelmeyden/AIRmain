@@ -489,10 +489,10 @@ padding-bottom: 20px; color:#95969a;">
           <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/comm1.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
         <div class="col l2 s6 m6">
-          <a href="https://vk.com/noirf"><img src="assets/img/weeert.png" class="responsive-img rovn_part grey_filter small_k"></a>
+          <a href="https://vk.com/noirf"><img src="assets/img/weeert.png" class="responsive-img rovn_part grey_filter small_k" style="max-width: 110px;"></a>
         </div>
         <div class="col l2 s6 m6">
-          <a href="https://coddyschool.com"><img src="assets/img/logo-coddy-blue.png" class="responsive-img rovn_part grey_filter small_k"></a>
+          <a href="https://coddyschool.com"><img src="assets/img/logo-coddy-blue.png" class="responsive-img rovn_part grey_filter small_k" style="max-width: 110px;"></a>
         </div>
         
       </div>
