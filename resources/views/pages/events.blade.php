@@ -52,7 +52,7 @@
       @endif
       @endforeach
       @if(empty($events))
-      <h2 class="its_poik_niz" style="text-align: center;">Новые мероприятия появяться совсем скоро, ожидайте !</h2>
+      <h2 class="its_poik_niz" style="text-align: center;">Новые мероприятия появятся совсем скоро, ожидайте !</h2>
       @endif
     </div>
   </div>

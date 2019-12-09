@@ -292,7 +292,6 @@ padding-bottom: 20px; color:#95969a;">
 <section class="project_3">
   <div class="container">
     <div class="row">
-
       <div class="col l12 m12 s12" style="padding-bottom: 40px;">
         <h2 class="mero-text">МЕРОПРИЯТИЯ</h2>
         <a href="/events" class="waves-effect waves-light btn btn_project_2">ВСЕ МЕРОПРИЯТИЯ</a>
@@ -317,7 +316,7 @@ padding-bottom: 20px; color:#95969a;">
       @endif
       @endforeach
       @if(empty($events))
-      <h2 class="its_poik_niz" style="text-align: center;">Новые мероприятия появяться совсем скоро, ожидайте !</h2>
+      <h2 class="its_poik_niz" style="text-align: center;">Новые мероприятия появятся совсем скоро, ожидайте !</h2>
       @endif
     </div>
   </div>
