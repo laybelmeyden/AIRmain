@@ -19,7 +19,7 @@
           <a href="https://vk.com/aidrussia"><i class="fa  fa-vk cuk4" aria-hidden="true"></i></a>
           <a href="https://www.facebook.com/ProgrammaItStart/"><i class="fa  fa-facebook cuk5" aria-hidden="true"></i></a>
           <a href="https://www.instagram.com/airpressa/"><i class="fa fa-instagram cuk6" aria-hidden="true">
-      </i></a>
+        </i></a>
         </div>
       </div>
     </div>
@@ -31,6 +31,7 @@
       padding-bottom: 90px;">
     <div class="row">
               @foreach ($event as $events)
+    @if(!empty($events))
 
   <div class="col l3 m12 s12 fara">
        <a href="/mer{{ $events->id }}"> 
@@ -48,7 +49,11 @@
         </li>
         </a>
       </div>
+      @endif
       @endforeach
+      @if(empty($events))
+      <h2 class="its_poik_niz" style="text-align: center;">Новые мероприятия появяться совсем скоро, ожидайте !</h2>
+      @endif
     </div>
   </div>
 </section>

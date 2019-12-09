@@ -21,7 +21,7 @@ class MainController extends Controller
     	->get();
     	$blag = Blag::latest()
     	->get();
-    	$event = Event::first()
+    	$event = Event::latest()
     	->get();
       
     	 $seos = Seo::latest()
@@ -248,7 +248,7 @@ class MainController extends Controller
 
     public function events()
     {
-      $event = Event::first()
+      $event = Event::latest()
     	->get();
     	
     	$seos = Seo::latest()
