@@ -13,7 +13,28 @@
 <p class="its_1">МЕТОДИЧЕСКИЕ ПОСОБИЯ И КНИГИ, ИЗДАННЫЕ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИМ ЦЕНТРОМ АНО «АГЕНТСТВО ИННОВАЦИОННОГО РАЗВИТИЯ».
 </p>
 </div>
-
+<div class="col l6 s12 m12 tupo_i">
+<div class="card horizontal pop_edu_v_magadan_1">
+<div class="card-image gover">
+	<img class="jajsfjasf" src="assets/img/Sbornik_metodicheskikh_rekomendatsiy_po_ispolzovaniyu_innovatsionnykh_tekhnicheskikh_sredstv_obuchenia_ITSO_v_deyatelnosti_po_patrio.jpg">
+</div>
+<div class="card-stacked giti">
+<div class="card-content">
+	<p class="magad1_1">МЕТОДИЧЕСКИХ РЕКОМЕНДАЦИЙ
+ПО ИСПОЛЬЗОВАНИЮ ИННОВАЦИОННЫХ
+ТЕХНИЧЕСКИХ СРЕДСТВ ОБУЧЕНИЯ (ИТСО)
+В ДЕЯТЕЛЬНОСТИ ПО ПАТРИОТИЧЕСКОМУ
+ВОСПИТАНИЮ И ПОПУЛЯРИЗАЦИИ
+ИСТОРИЧЕСКИХ ЗНАНИЙ
+МОСКВА
+Издательский центр АНО АИР
+2019
+	</p>
+	<a href="https://vk.com/doc32870057_527256211?hash=b9aa80ff4f36e77df9&dl=6dea95a2fde0c65fed" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a>
+</div>
+</div>
+</div>
+</div>
 <div class="col l6 s12 m12 tupo_i">
 <div class="card horizontal pop_edu_v_magadan_1">
 <div class="card-image gover">
