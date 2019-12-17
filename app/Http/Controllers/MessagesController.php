@@ -26,7 +26,8 @@ class MessagesController extends Controller
       'email' => request('email'),
       'email1' => request('email1'),
       ]);
-      
+      $to_name = "AIR";
+      $to_email = "info@rusinnovations.com";
         $data= array(
       'name' => request('name'),
       'email' => request('email'),
@@ -34,11 +35,10 @@ class MessagesController extends Controller
       'message3' => request('message3'),
 
       );
-       \Mail::send('email.mail2', $data, function($message1) use ($data)
+       \Mail::send('email.mail2', $data, function($message1) use ($data, $to_email, $to_name)
     {
-        $mail_admin = env('MAIL_ADMIN_FOOTER');
-        $message1->from($data['email'], $data['name'], $data['message3']);
-        $message1->to($mail_admin, 'For Admin')->subject('Message from site');
+        $message1->from($to_email, $data['email'], $data['name'], $data['message3']);
+        $message1->to($to_email)->subject('Message from site');
      });
      session()->flash('message', 'Ваша заявка отправлена!');
      return redirect('/#footer');
