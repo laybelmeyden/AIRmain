@@ -11,7 +11,7 @@
           <input placeholder="Ваше имя" name="name" id="first_name" type="text" class="validate foot_form" required>
         </div>
         <div class="input-field col s12 l6 m12" style="padding-left: 0px; padding-right: 20px;">
-          <input placeholder="E-mail" id="email" name="email" type="email" class="validate foot_form" required>
+          <input placeholder="text" id="email" name="email" type="email" class="validate foot_form" required>
         </div>
         
         <div class="input-field col s12 l6 m12" style="padding-left: 0px; padding-right: 20px; display:none;">
