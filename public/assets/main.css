@@ -2659,9 +2659,14 @@ ul.external_1 li {
     height: 80px;
 }
 
+.kjuv_cropp {
+    height: 250px!important;
+    width: 390px!important;
+    overflow: hidden;
+}
+
 .kjuy {
-    height: 250px !important;
-    width: 390px !important;
+    width: 100%;
 }
 
 .oliu {

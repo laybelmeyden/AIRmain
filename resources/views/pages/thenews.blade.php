@@ -63,7 +63,9 @@
                         <p class="n1">{{ $allnew->date }}</p>
                         <div class="kkk"><p class="n2">{!! str_limit($allnew->body, 200) !!}</p></div>
                 
+                <div class="kjuv_cropp">
                 <img src="storage/{{ $allnew->image }}" class="responsive-img kjuy">
+                </div>
                     </div>
                 </a>  
          </div>
