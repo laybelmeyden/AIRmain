@@ -272,7 +272,9 @@ padding-bottom: 20px; color:#95969a;">
                   <div class="iu2 kkk">
                     <p class="n2">{!! $allnew->body !!}</p>
                   </div>
+                  <div class="oi_cropp">
                   <img src="/storage/{{ $allnew->image }}" class="oi">
+                  </div>
                 </div>
               </a>
             </li>
