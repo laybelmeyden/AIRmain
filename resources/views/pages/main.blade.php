@@ -496,7 +496,7 @@ padding-bottom: 20px; color:#95969a;">
           <a href="https://coddyschool.com"><img src="assets/img/logo-coddy-blue.png" class="responsive-img rovn_part grey_filter small_k" style="max-width: 110px;"></a>
         </div>
         <div class="col l2 s6 m6">
-          <a href="https://www.canva.com/"><img src="assets/img/canva_2.png.png" class="responsive-img rovn_part grey_filter small_k"></a>
+          <a href="https://www.canva.com/"><img src="assets/img/canva_2.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
       </div>
     </div>
