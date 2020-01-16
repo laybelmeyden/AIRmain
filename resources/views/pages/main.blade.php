@@ -116,8 +116,8 @@ position: relative;
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin2.png"></img>
             <h4 class="modal_size">кружок <br>
-робототехники<br>
-ROBO START</h4>
+              робототехники<br>
+              ROBO START</h4>
             <a href="/robostart" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Программы по развитию образовательной робототехники,мехатроники и научно-технического творчества молодежи</p>
           </div>
@@ -130,7 +130,7 @@ ROBO START</h4>
           </div>
           <div class="card-content pull_card_content">
             <p class="pull_text">Наука
-            <br>Публикации <br> Конференции
+              <br>Публикации <br> Конференции
             </p>
           </div>
           <a href="#modal3" class="waves-effect waves-light btn pull_btn">ПОДРОБНЕЕ</a>
@@ -139,7 +139,7 @@ ROBO START</h4>
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin3.png"></img>
             <h4 class="modal_size1">Наука
-            <br>НИЦ АНО АИР<br>Публикации и конференции<br>Книги и пособия</h4>
+              <br>НИЦ АНО АИР<br>Публикации и конференции<br>Книги и пособия</h4>
             <a href="/publication" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Публикация результатов научных исследований аспирантов, соискателей и докторантов российских и зарубежных ВУЗов и научных центров.</p>
           </div>
@@ -163,9 +163,9 @@ ROBO START</h4>
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin4.png"></img>
             <h4 class="modal_size">DIGITAL и Дизайн <br>
-Студия <br>
-AIR CREATIVE <br>
-GROUP</h4>
+              Студия <br>
+              AIR CREATIVE <br>
+              GROUP</h4>
             <a href="/creative" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Эффективные и комплексные бизнес-решения для продвижения бизнеса, рекламного сопровождения мероприятий и т.д.</p>
           </div>
@@ -188,8 +188,8 @@ GROUP</h4>
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin5.png"></img>
             <h4 class="modal_size">Конструкторы<br>
-образовательной<br>
-робототехники</h4>
+              образовательной<br>
+              робототехники</h4>
             <a href="/constract" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Продажа интерактивных систем, мультимедийных технологий, образовательной робототехники и обучающих систем.</p>
           </div>
@@ -213,8 +213,8 @@ GROUP</h4>
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin6.png"></img>
             <h4 class="modal_size">международные<br>
-образовательные<br>
-стажировки</h4>
+              образовательные<br>
+              стажировки</h4>
             <a href="/stazir" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p>Получение опыта и знаний от экспертов международного уровня, знакомство с инновационной и бизнес инфраструктурой передовых стран.</p>
           </div>
@@ -223,21 +223,21 @@ GROUP</h4>
       </div>
 
       <div class="pull_last">
-        
+
         <!--ФОРМА ПОИСКА-->
-        
-        
-        
+
+
+
         <form class="search_form" action="/search" method="POST">
           {{ csrf_field() }}
           <input class="search_inp" type="text" placeholder="Поиск по сайту" name="search">
           <button class="search_btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i>
           </button>
         </form>
-        
-        
+
+
         <!--КОНЕЦ ФОРМЫ-->
-        
+
         <a href="https://vk.com/aidrussia"><i class="fa  fa-vk" aria-hidden="true" style="    margin-top: 345px;
 padding-left: 5px;
 font-size: 24px;
@@ -248,7 +248,7 @@ padding-bottom: 20px; color:#95969a;"></i></a>
         <a href="https://www.instagram.com/airpressa/"><i class="fa fa-instagram" aria-hidden="true" style="padding-left: 9px;
 font-size: 24px;
 padding-bottom: 20px; color:#95969a;">
-</i></a>
+          </i></a>
       </div>
     </div>
   </div>
@@ -263,9 +263,9 @@ padding-bottom: 20px; color:#95969a;">
       <div class="wrap">
         <div class="frame max3" id="basic">
           <ul class="clearfix">
-             @foreach ($allnews as $allnew)
+            @foreach ($allnews as $allnew)
             <li class="oliu">
-<h3>&raquo;&raquo;</h3>
+              <h3>&raquo;&raquo;</h3>
               <a class="n3" href="/new{{ $allnew->id }}">
                 <div class="hyt">
                   <p class="n1">{{ $allnew->date }}</p>
@@ -273,7 +273,7 @@ padding-bottom: 20px; color:#95969a;">
                     <p class="n2">{!! $allnew->body !!}</p>
                   </div>
                   <div class="oi_cropp">
-                  <img src="/storage/{{ $allnew->image }}" class="oi">
+                    <img src="/storage/{{ $allnew->image }}" class="oi">
                   </div>
                 </div>
               </a>
@@ -301,19 +301,19 @@ padding-bottom: 20px; color:#95969a;">
       @foreach ($event as $events)
       @if(!empty($events))
       <div class="col l3 m12 s12 fara">
-       <a href="/mer{{ $events->id }}">
+        <a href="/mer{{ $events->id }}">
           <li class="portfolio-item_1">
-          <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl">
-          <figcaption class="mask_1">
-            <p class="ev1">{{ $events->title }}</p>
-            <p class="ev2">{{ $events->minibody }}</p>
-            <p class="nijniy_flex">{{ $events->date }}</p>
-            <div class="top_flex_anm_2">
-              <a href="/mer{{ $events->id }}" class="waves-effect waves-light btn pull_btn_1 class{{ $events->formaregi }}">УЧАСТВОВАТЬ</a>
-            </div>
-          </figcaption>
-        </li>
-       </a>
+            <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl">
+            <figcaption class="mask_1">
+              <p class="ev1">{{ $events->title }}</p>
+              <p class="ev2">{{ $events->minibody }}</p>
+              <p class="nijniy_flex">{{ $events->date }}</p>
+              <div class="top_flex_anm_2">
+                <a href="/mer{{ $events->id }}" class="waves-effect waves-light btn pull_btn_1 class{{ $events->formaregi }}">УЧАСТВОВАТЬ</a>
+              </div>
+            </figcaption>
+          </li>
+        </a>
       </div>
       @endif
       @endforeach
@@ -339,15 +339,15 @@ padding-bottom: 20px; color:#95969a;">
 
           <div class="frame1" id="basic1" style="overflow: hidden;">
             <ul class="clearfix">
-            @foreach ($blag as $blags)
-           
+              @foreach ($blag as $blags)
+
               <a href="{{ $blags->link }}">
-              <li>
-                <img src="storage/{{ $blags->img1 }}" class="smena_fona_k smena_fona_ki" onmouseover="this.src='assets/img/1blaghov.png';" onmouseout="this.src='storage/{{ $blags->img1 }}';">
-              </li>
+                <li>
+                  <img src="storage/{{ $blags->img1 }}" class="smena_fona_k smena_fona_ki" onmouseover="this.src='assets/img/1blaghov.png';" onmouseout="this.src='storage/{{ $blags->img1 }}';">
+                </li>
               </a>
-@endforeach
-            
+              @endforeach
+
             </ul>
           </div>
 
@@ -448,7 +448,7 @@ padding-bottom: 20px; color:#95969a;">
 
         </div>
         <div class="col l2 s6 m6">
-         <a href="http://www.artscienceandsport.com/"> <img src="assets/img/18.png" class="responsive-img rovn_part"></a>
+          <a href="http://www.artscienceandsport.com/"> <img src="assets/img/18.png" class="responsive-img rovn_part"></a>
 
         </div>
       </div>
@@ -467,7 +467,7 @@ padding-bottom: 20px; color:#95969a;">
 
         </div>
         <div class="col l2 s6 m6">
-         <a href="http://www.mesi.ru/"> <img src="assets/img/22.png" class="responsive-img rovn_part"></a>
+          <a href="http://www.mesi.ru/"> <img src="assets/img/22.png" class="responsive-img rovn_part"></a>
 
         </div>
         <div class="col l2 s6 m6">
@@ -483,10 +483,10 @@ padding-bottom: 20px; color:#95969a;">
         <div class="col l2 s6 m6">
           <a href="https://www.mos.ru/kos/"><img src="assets/img/com.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
-         <div class="col l2 s6 m6">
+        <div class="col l2 s6 m6">
           <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/gomosru"><img src="assets/img/comm.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
-         <div class="col l2 s6 m6">
+        <div class="col l2 s6 m6">
           <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/comm1.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
         <div class="col l2 s6 m6">
@@ -496,27 +496,27 @@ padding-bottom: 20px; color:#95969a;">
           <a href="https://coddyschool.com"><img src="assets/img/logo-coddy-blue.png" class="responsive-img rovn_part grey_filter small_k" style="max-width: 110px;"></a>
         </div>
         <div class="col l2 s6 m6">
-          <a href="https://www.canva.com/"><img src="assets/img/canva_2.png" class="responsive-img rovn_part grey_filter small_k"></a>
+          <a href="https://about.canva.com/ru_ru/"><img src="assets/img/canva_2.png" class="responsive-img rovn_part grey_filter small_k"></a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-  <section class="forma_pub_22">
+<section class="forma_pub_22">
 
-       <div class="container">
-           <div class="row">
-               <div class="col l12 m12 s12">
-                   <h2 class="its_poik_niz">Хотите получать актуальную инормацию<br>
-о проектах?</h2>
-<h2 class="its_poik_2">Подпишитесь на нашу рассылку</h2>
-               </div>
+  <div class="container">
+    <div class="row">
+      <div class="col l12 m12 s12">
+        <h2 class="its_poik_niz">Хотите получать актуальную инормацию<br>
+          о проектах?</h2>
+        <h2 class="its_poik_2">Подпишитесь на нашу рассылку</h2>
+      </div>
       <div class="col l12 m12 s12" style="padding-bottom: 75px;">
-         <a type="text" name="submit_subscribe" value="Подписаться" class="waves-effect waves-light btn btn_project_2_its" href="https://rusinnovations.timepad.ru/">Подписаться</a> 
-        
+        <a type="text" name="submit_subscribe" value="Подписаться" class="waves-effect waves-light btn btn_project_2_its" href="https://rusinnovations.timepad.ru/">Подписаться</a>
+
       </div>
-      </div>
-      </div>
+    </div>
+  </div>
 </section>
 @endsection
