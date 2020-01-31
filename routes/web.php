@@ -33,7 +33,7 @@ Route::get('/shop', 'MainController@shop');
 
 Route::get('/itstart', 'MainController@itstart');
 
-Route::get('/robostart', 'MainController@robostart');
+// Route::get('/robostart', 'MainController@robostart');
 
 Route::get('/nicanoair', 'MainController@nicanoair');
 

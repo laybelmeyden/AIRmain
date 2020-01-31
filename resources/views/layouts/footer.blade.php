@@ -66,9 +66,9 @@
             <a href="http://it-start.rusinnovations.com/">
               <li class="norm_tex_foo">It-Start</li>
             </a>
-            <a href="/robostart">
+            <!-- <a href="/robostart">
               <li class="norm_tex_foo">robo Start</li>
-            </a>
+            </a> -->
             <!--<a href="/global">-->
             <!--  <li class="norm_tex_foo">Global Science</li>-->
             <!--</a>-->

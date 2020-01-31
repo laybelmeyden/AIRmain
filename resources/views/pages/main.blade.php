@@ -100,7 +100,7 @@ position: relative;
         </div>
       </div>
 
-      <div class="col l2 m6 s12 project_1">
+      <!-- <div class="col l2 m6 s12 project_1">
         <div class="card pull_card">
           <div class="card-image pull_card_img">
             <img src="assets/img/chel2.png" class="top_pull1">
@@ -122,7 +122,7 @@ position: relative;
             <p class="modal_p_1">Программы по развитию образовательной робототехники,мехатроники и научно-технического творчества молодежи</p>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col l2 m6 s12 project_1">
         <div class="card pull_card">
           <div class="card-image pull_card_img">
