@@ -358,10 +358,11 @@ a.text_nav_2:hover {
     width: 315px;
     min-height: 535px;
     margin-top: 66px;
-    margin-left: 7%;
+    margin-left: 15%;
     position: absolute;
     background-image: url(img/back1.png);
     border-radius: 0px;
+    top: 10.3%;
 }
 
 .modal2 {
@@ -378,40 +379,44 @@ a.text_nav_2:hover {
     width: 315px;
     min-height: 535px;
     margin-top: 66px;
-    margin-left: 33.8%;
+    margin-left: 26.8%;
     position: absolute;
     background-image: url(img/back3.png);
     border-radius: 0px;
+    top: 10.3%;
 }
 
 .modal4 {
     width: 315px;
     min-height: 535px;
     margin-top: 66px;
-    margin-left: 47.3%;
+    margin-left: 37.9%;
     position: absolute;
     background-image: url(img/back4.png);
     border-radius: 0px;
+    top: 10.3%;
 }
 
 .modal5 {
     width: 315px;
     min-height: 535px;
     margin-top: 66px;
-    margin-left: 61.5%;
+    margin-left: 48.9%;
     position: absolute;
     background-image: url(img/back5.png);
     border-radius: 0px;
+    top: 10.3%;
 }
 
 .modal6 {
     width: 315px;
     min-height: 535px;
     margin-top: 66px;
-    margin-left: 74.5%;
+    margin-left: 60%;
     position: absolute;
     background-image: url(img/back6.png);
     border-radius: 0px;
+    top: 10.3%;
 }
 
 .card_p1 {
