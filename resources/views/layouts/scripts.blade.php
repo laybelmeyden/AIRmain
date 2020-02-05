@@ -10,9 +10,6 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vue@2.4.2"></script>
 <script type="text/javascript" src="js/search.js"></script>
-<script src="assets/jquery.vmap.js" type="text/javascript"></script>
-<script src="assets/jquery.vmap.russia.js" type="text/javascript"></script>
- <script src="assets/maps.js" type="text/javascript"></script>
 
 <script src="assets/js/modernizr.custom.js"></script>
 <script src="assets/js/imagesloaded.pkgd.min.js"></script>

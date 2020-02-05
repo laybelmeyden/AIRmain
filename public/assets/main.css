@@ -2566,6 +2566,19 @@ figcaption.mask {
     word-break: break-word;
 }
 
+path:hover {
+    opacity: 0.7;
+}
+
+.tooltip_maps {
+    display: none;
+    padding: 15px;
+    position: absolute;
+    background: #000;
+    border-radius: 4px;
+    color: #fff;
+}
+
 .portfolio-item_1:hover .mask_1 {
     bottom: 0;
 }

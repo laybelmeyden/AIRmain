@@ -9,7 +9,24 @@ $(document).ready(function() {
 $(".button-collapse").sideNav();
 $(".dropdown-button").dropdown();
 
-
+$('.focus_maps').mousemove(function(e) {
+    var X = e.pageX;
+    var Y = e.pageY;
+    var top = Y + 10 + 'px';
+    var left = X + 10 + 'px';
+    var id = $(this).data('tooltip_maps');
+    $('#tip-' + id).css({
+        display: "block",
+        top: top,
+        left: left
+    });
+});
+$('.focus_maps').mouseout(function() {
+    var id = $(this).data('tooltip_maps');
+    $('#tip-' + id).css({
+        display: "none"
+    });
+});
 
 $(document).ready(function() {
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
