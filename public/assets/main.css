@@ -2570,6 +2570,10 @@ figcaption.mask {
     bottom: 0;
 }
 
+.swiper-slide img {
+    width: 100%;
+}
+
 .kupola_zol {
     height: 506px;
     width: auto;
