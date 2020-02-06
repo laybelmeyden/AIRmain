@@ -68,7 +68,7 @@
       <div class="col l12 m12 s12" style="padding-bottom: 60px;
     text-align: center;
     padding-top: 40px;">
-        <a href="https://vk.com/doc190245867_534836112?hash=ab51a84dcf225950c3&dl=7452ebc5f394f2b2e7" target="_blank" class="waves-effect waves-light btn btn_project_2">СКАЧАТЬ</a>
+        <a href="https://vk.com/doc190245867_534836112?hash=ab51a84dcf225950c3&dl=7452ebc5f394f2b2e7" target="_blank" class="waves-effect waves-light btn btn_project_2">СКАЧАТЬ БРОШЮРУ</a>
       </div>
     </div>
   </div>
