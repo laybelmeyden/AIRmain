@@ -696,7 +696,8 @@ input::-moz-placeholder {
 }
 
 .swiper-slide img {
-    width: 40%;
+    width: 500px;
+    height: 484px;
 }
 
 .swiper-slide {
@@ -3144,6 +3145,7 @@ nav ul a:hover {
     }
     .swiper-slide img {
         width: 100%;
+        height: auto;
     }
 }
 
