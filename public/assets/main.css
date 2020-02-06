@@ -695,6 +695,15 @@ input::-moz-placeholder {
     padding-bottom: 15px;
 }
 
+.swiper-slide img {
+    width: 40%;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+}
+
 .norm_tex_foo {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
@@ -2572,10 +2581,6 @@ path:hover {
 
 .portfolio-item_1:hover .mask_1 {
     bottom: 0;
-}
-
-.swiper-slide img {
-    width: 40%;
 }
 
 .kupola_zol {
