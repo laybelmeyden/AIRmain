@@ -2575,7 +2575,7 @@ path:hover {
 }
 
 .swiper-slide img {
-    width: 100%;
+    width: 40%;
 }
 
 .kupola_zol {
@@ -3136,6 +3136,9 @@ nav ul a:hover {
         display: block;
         width: 500px !important;
         word-break: break-word;
+    }
+    .swiper-slide img {
+        width: 100%;
     }
 }
 

@@ -90,6 +90,7 @@ $('.owl-carousel').owlCarousel({
     startPosition: 'URLHash'
 });
 var swiper = new Swiper('.swiper-container', {
+    loop: true,
     pagination: {
         el: '.swiper-pagination',
         type: 'progressbar',
