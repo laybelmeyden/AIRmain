@@ -25,6 +25,22 @@
     <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
+     <a href="https://drive.google.com/file/d/145nL0wOXCWlotH1xfyfxKOmtCbs3YR5g/view?usp=sharing" target="blank" class="edu_uli_1">Отчет о деятельности</a>
+   </li>
+   <li>
+     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+
+     <a href="https://drive.google.com/file/d/1OUWDgydJbdPJWX2Lz5FgwEUwVX8BllqM/view?usp=sharing" target="blank" class="edu_uli_1">Заявление о соотвествии</a>
+   </li>
+   <li>
+     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+
+     <a href="https://drive.google.com/file/d/1z8PZzvl9oR08jjpaBk2VS_0vX6tMhl29/view?usp=sharing" target="blank" class="edu_uli_1">Отчет о целях расходования</a>
+   </li>
+
+    <li>
+     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+
      <a href="https://vk.com/doc22052708_516634692?hash=6b3bbadd39c10f1760&dl=4baf9e95d2fbbb9931" target="blank" class="edu_uli_1">Положение о конкурсном отборе Региональных Партнеров</a>
    </li>
    <li>
