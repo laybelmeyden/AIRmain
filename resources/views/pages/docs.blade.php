@@ -22,21 +22,7 @@
 
 
     <p class="its_1">Наши документы:</p>
-    <li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://drive.google.com/file/d/145nL0wOXCWlotH1xfyfxKOmtCbs3YR5g/view?usp=sharing" target="blank" class="edu_uli_1">Отчет о деятельности</a>
-   </li>
-   <li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://drive.google.com/file/d/1OUWDgydJbdPJWX2Lz5FgwEUwVX8BllqM/view?usp=sharing" target="blank" class="edu_uli_1">Заявление о соотвествии</a>
-   </li>
-   <li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://drive.google.com/file/d/1z8PZzvl9oR08jjpaBk2VS_0vX6tMhl29/view?usp=sharing" target="blank" class="edu_uli_1">Отчет о целях расходования</a>
-   </li>
+  
 
     <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
