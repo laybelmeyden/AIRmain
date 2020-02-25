@@ -17,7 +17,7 @@
               <ul style="    padding-bottom: 50px;">
 
 
-
+              <p class="its_1">Отчет за 2019 год:</p>
 
               <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
