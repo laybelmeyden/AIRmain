@@ -110,7 +110,7 @@
         <div class="col l1 s6 m6">
           <ul style="text-align: right;">
             <li style="padding-bottom: 25px;"><a href="https://vk.com/aidrussia" style="font-size: 16px;"><i class="fa  fa-vk" aria-hidden="true" style="color:#ffffff;"></i></a></li>
-            <li style="padding-bottom: 25px;"><a href="https://www.facebook.com/ProgrammaItStart/" style="font-size: 16px;"><i class="fa  fa-facebook" aria-hidden="true" style="color:#ffffff;"></i></a></li>
+            <li style="padding-bottom: 25px;"><a href="https://www.facebook.com/groups/2621611817948990/" style="font-size: 16px;"><i class="fa  fa-facebook" aria-hidden="true" style="color:#ffffff;"></i></a></li>
             <li><a href="http://instagram.com/airpressa" style="font-size: 16px;"><i class="fa fa-instagram" aria-hidden="true" style="color:#ffffff;"></i></a></li>
             <li><!-- Yandex.Metrika informer -->
 <a href="https://metrika.yandex.ru/stat/?id=46284999&amp;from=informer"

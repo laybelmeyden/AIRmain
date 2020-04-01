@@ -242,7 +242,7 @@ position: relative;
 padding-left: 5px;
 font-size: 24px;
 padding-bottom: 20px; color:#95969a;"></i></a>
-        <a href="https://www.facebook.com/ProgrammaItStart/"><i class="fa  fa-facebook" aria-hidden="true" style="padding-left: 11px;
+        <a href="https://www.facebook.com/groups/2621611817948990/"><i class="fa  fa-facebook" aria-hidden="true" style="padding-left: 11px;
 font-size: 24px;
 padding-bottom: 20px; color:#95969a;"></i></a>
         <a href="https://www.instagram.com/airpressa/"><i class="fa fa-instagram" aria-hidden="true" style="padding-left: 9px;
