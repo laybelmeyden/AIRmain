@@ -2679,7 +2679,7 @@ ul.external_1 li {
 }
 
 .kjuv_cropp {
-    height: 250px!important;
+    height: 200px!important;
     width: 390px!important;
     overflow: hidden;
 }
@@ -3138,6 +3138,10 @@ nav ul a:hover {
 }
 
 @media screen and (max-width:992px) {
+    .kjuv_cropp {
+        height: auto !important;
+        width: 100% !important;
+    }
     table td {
         display: block;
         width: 500px !important;
