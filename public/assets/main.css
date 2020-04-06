@@ -2636,7 +2636,6 @@ ul.external_1 li {
 }
 
 .hyt1 {
-    height: 500px;
     min-height: 500px;
     max-height: 500px;
     margin-top: 50px;
@@ -2680,7 +2679,7 @@ ul.external_1 li {
 
 .kjuv_cropp {
     height: 200px!important;
-    width: 390px!important;
+    width: 100%;
     overflow: hidden;
 }
 
