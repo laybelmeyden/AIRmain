@@ -41,9 +41,9 @@
             <p class="ev1">{{ $eventpros->title }}</p>
             <p class="ev2">{{ $eventpros->minibody }}</p>
             <p class="nijniy_flex">{{ $eventpros->date }}</p>
-            <div class="top_flex_anm_2">
+            <!-- <div class="top_flex_anm_2">
               <a href="/promero{{ $eventpros->id }}" class="waves-effect waves-light btn pull_btn_1">УЧАСТВОВАТЬ</a>
-            </div>
+            </div> -->
           </figcaption>
 
         </li>
