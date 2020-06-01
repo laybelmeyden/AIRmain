@@ -44,11 +44,6 @@
 
      <a href="https://vk.com/doc22052708_477185430?hash=09fa72090250579016&dl=559b249bff7486424b" target="blank" class="edu_uli_1">Приказ № 55 о подведении итогов конкурсного отбора</a>
    </li>      
-      <li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://vk.com/doc22052708_476977289?hash=8fa4d789aec7d15875&dl=7d1a18af029c154607" target="blank" class="edu_uli_1">Положение о соревнованиях по робототехнике техническим видам спорта</a>
-   </li>       
      <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
