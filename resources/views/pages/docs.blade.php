@@ -32,12 +32,12 @@
    <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
-     <a href="https://vk.com/doc22052708_516634658?hash=f5bab6672a7223b9aa&dl=7ac7179a2718724991" target="blank" class="edu_uli_1">Приказ №34</a>
+     <a href="https://drive.google.com/file/d/1Ck8sVxlHPiGgTTLO2eR75DUHILAIexNL/view?usp=sharing" target="blank" class="edu_uli_1">Приказ №34</a>
    </li>
              <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
-     <a href="https://vk.com/doc22052708_490768207?hash=3f1c0f53bc4a6b6039&dl=a6c32fe381005cf839" target="blank" class="edu_uli_1">Методическое пособие по проведению географических фестивалей робототехники</a>
+     <a href="https://drive.google.com/file/d/11VXaTYlrKanhaPwemwpHsvGjDHR1EZTJ/view?usp=sharing" target="blank" class="edu_uli_1">Методическое пособие по проведению географических фестивалей робототехники</a>
    </li>
        <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
@@ -61,11 +61,7 @@
 
      <a href="https://vk.com/doc22052708_481464414?hash=cb60215b5e91cb6908&dl=a06c08f5b984992dc8" target="blank" class="edu_uli_1">Положение о конкурсном отборе участников "Всероссийской профильной смены по информационным технологиям и техническим видам спорта"</a>
    </li>
-             <li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://vk.com/doc22052708_463887254?hash=523c3bb1d00f82b717&dl=09b37057159445a3e8" target="blank" class="edu_uli_1">Отчет за 2017 г.</a>
-   </li>
+   
  <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
@@ -83,11 +79,6 @@
      <a href="https://vk.com/doc158927846_450785683?hash=b21711b91f640a8067&dl=e99f93b6793b5a4db4" target="blank" class="edu_uli_1">Мониторинг развития образовательной робототехники и IT-образования в городе Москве</a>
    </li>
              
-<li>
-     <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-
-     <a href="https://vk.com/doc158927846_450116266?hash=6411f6476787712c6b&dl=8cde291a7af0f0a11f" target="blank" class="edu_uli_1">Положение IT-Start</a>
-   </li>
 
 <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
@@ -111,7 +102,7 @@
    <li>
      <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
 
-     <a href="https://drive.google.com/file/d/0Bxz-EZ5tW4VbbXJSMnc1UU5pc2M/view" target="blank" class="edu_uli_1">Устав</a>
+     <a href="https://drive.google.com/file/d/1h5Ah53ufixh8KXoKplG9ozlJYCdfuOT7/view?usp=sharing" target="blank" class="edu_uli_1">Устав</a>
    </li>
 
    <li>
