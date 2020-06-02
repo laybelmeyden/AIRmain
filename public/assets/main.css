@@ -2777,6 +2777,7 @@ ul.external_1 li {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-right: 20px;
 }
 
 .kjuy {
