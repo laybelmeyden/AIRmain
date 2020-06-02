@@ -253,38 +253,39 @@ padding-bottom: 20px; color:#95969a;">
     </div>
   </div>
 </section>
-<section class="project_2">
-  <div class="row">
-    <div class="col s12 m12 l2 offset-l2 max2" style="    padding-top: 180px;">
-      <h4 class="h4rel max1">АКТУАЛЬНЫЕ <br>НОВОСТИ</h4>
-      <a href="/thenews" class="waves-effect waves-light btn btn_project_2 btnflex h4rel">ВСЕ НОВОСТИ</a>
-    </div>
-    <div class="col s12 m12 l7 offset-l1">
+<section id="news" class="project_2">
+  <div class="container-flex">
+    <div class="grid-container">
+      <div class="news_actual_container">
+        <h4 class="h4rel max1">АКТУАЛЬНЫЕ <br>НОВОСТИ</h4>
+        <a href="/thenews" class="waves-effect waves-light btn btn_project_2 btnflex h4rel">ВСЕ НОВОСТИ</a>
+      </div>
       <div class="wrap">
-        <div class="frame max3" id="basic">
-          <ul class="clearfix">
+        <div class="flex-news-container" id="basic">
+          <ul class="clearfix flex-news-container-card">
             @foreach ($allnews as $allnew)
-            <li class="oliu">
-              <h3>&raquo;&raquo;</h3>
-              <a class="n3" href="/new{{ $allnew->id }}">
-                <div class="hyt">
-                  <p class="n1">{{ $allnew->date }}</p>
-                  <div class="iu2 kkk">
-                    <p class="n2">{!! $allnew->body !!}</p>
-                  </div>
-                  <div class="oi_cropp">
-                    <img src="/storage/{{ $allnew->image }}" class="oi">
-                  </div>
+            <div class="news_card_items">
+            <li class="flex_card_main">
+              <a class="" href="/new{{ $allnew->id }}">
+                <p class="news_date">{{ $allnew->date }}</p>
+                <div class="text_container_news">
+                  <p class="news_title">{!! $allnew->body !!}</p>
+                </div>
+                <div class="news_img_container">
+                  <img src="/storage/{{ $allnew->image }}" class="news_img_main">
                 </div>
               </a>
             </li>
+            </div>
             @endforeach
           </ul>
         </div>
+        <div class="scrool-container">
         <div class="scrollbar">
           <div class="handle">
             <div class="mousearea"></div>
           </div>
+        </div>
         </div>
       </div>
     </div>
@@ -294,7 +295,7 @@ padding-bottom: 20px; color:#95969a;">
 <section class="project_3">
   <div class="container">
     <div class="row">
-      <div class="col l12 m12 s12" style="padding-bottom: 40px;">
+      <div class="col l12 m12 s12 meros_item">
         <h2 class="mero-text">МЕРОПРИЯТИЯ</h2>
         <a href="/events" class="waves-effect waves-light btn btn_project_2">ВСЕ МЕРОПРИЯТИЯ</a>
       </div>
