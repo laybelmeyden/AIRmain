@@ -142,7 +142,7 @@ nav,
     justify-content: center;
     display: flex;
     flex-direction: column;
-    padding-left: 34%;
+    padding-left: 36.2%;
 }
 
 .news_img_container {
@@ -2761,8 +2761,6 @@ ul.external_1 li {
 
 .meros_item {
     padding-bottom: 40px !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
 }
 
 .kjuv_cropp {
