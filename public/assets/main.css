@@ -185,6 +185,7 @@ nav,
     font-weight: 900;
     color: #000!important;
     margin: 0;
+    word-break: break-all;
 }
 
 .news_card_items {
