@@ -265,27 +265,31 @@ padding-bottom: 20px; color:#95969a;">
           <ul class="clearfix flex-news-container-card">
             @foreach ($allnews as $allnew)
             <div class="news_card_items">
-            <li class="flex_card_main">
-              <a class="" href="/new{{ $allnew->id }}">
-                <p class="news_date">{{ $allnew->date }}</p>
-                <div class="text_container_news">
-                  <p class="news_title">{!! $allnew->body !!}</p>
-                </div>
+              <li class="flex_card_main">
+                <a class="" href="/new{{ $allnew->id }}">
+                  <p class="news_date">{{ $allnew->date }}</p>
+                    <p class="news_title">
+                    <?php
+                    $a = strlen($allnew->body);
+                    $c = substr($allnew->body, 0 , 100);
+                    $b = str_pad($c, 103, "...");
+                    echo $b;
+                    ?></p>
                 <div class="news_img_container">
                   <img src="/storage/{{ $allnew->image }}" class="news_img_main">
-                </div>
-              </a>
-            </li>
+                  </div>
+                </a>
+              </li>
             </div>
             @endforeach
           </ul>
         </div>
         <div class="scrool-container">
-        <div class="scrollbar">
-          <div class="handle">
-            <div class="mousearea"></div>
+          <div class="scrollbar">
+            <div class="handle">
+              <div class="mousearea"></div>
+            </div>
           </div>
-        </div>
         </div>
       </div>
     </div>
