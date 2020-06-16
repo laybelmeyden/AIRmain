@@ -268,13 +268,13 @@ padding-bottom: 20px; color:#95969a;">
               <li class="flex_card_main">
                 <a class="" href="/new{{ $allnew->id }}">
                   <p class="news_date">{{ $allnew->date }}</p>
-                    <p class="news_title">
                     <?php
                     $a = strlen($allnew->body);
                     $c = substr($allnew->body, 0 , 100);
                     $b = str_pad($c, 103, "...");
-                    echo $b;
-                    ?></p>
+                    ?>
+                    <p class="news_title">
+                    {{$b}}</p>
                 <div class="news_img_container">
                   <img src="/storage/{{ $allnew->image }}" class="news_img_main">
                   </div>
