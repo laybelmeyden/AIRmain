@@ -13,7 +13,6 @@
 <p class="its_1">МЕТОДИЧЕСКИЕ ПОСОБИЯ И КНИГИ, ИЗДАННЫЕ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИМ ЦЕНТРОМ АНО «АГЕНТСТВО ИННОВАЦИОННОГО РАЗВИТИЯ».
 </p>
 </div>
-
 <div class="col l6 s12 m12 tupo_i">
 <div class="card horizontal pop_edu_v_magadan_1">
 <div class="card-image gover">
@@ -24,6 +23,20 @@
 	<p class="magad1_1" style="font-size:11px;">Учебно-методическое пособие по проведению школ цифровых компетенций и интерактивной робототехники подготовлено коллективом авторов Автономной некоммерческой организации «Агентство инновационного развития» при поддержке Комитета общественных связей и молодежной политики города Москвы в рамках реализации социально значимого проекта «Школы развития цифровых компетенций и интерактивной робототехники».
 	</p>
 	<a href="https://drive.google.com/file/d/1CfQAFq98kAX6Mi8LNCcXVUIIA1xmb-jo/view?usp=sharing" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col l6 s12 m12 tupo_i">
+<div class="card horizontal pop_edu_v_magadan_1">
+<div class="card-image gover">
+	<img class="jajsfjasf" src="assets/img/Sbornik_metodicheskikh_rekomendatsiy_po_ispolzovaniyu_innovatsionnykh_tekhnicheskikh_sredstv_obuchenia_ITSO_v_deyatelnosti_po_patrio.jpg">
+</div>
+<div class="card-stacked giti">
+<div class="card-content">
+	<p class="magad1_1">Сборник методических рекомендаций по использованию инновационных технических средств обучения (ИТСО) в деятельности по патриотическому воспитанию и популяризации исторических знаний Москва Издательский центр АНО "АИР" 2019 год 
+	</p>
+	<!-- <a href="https://vk.com/doc32870057_527256211?hash=b9aa80ff4f36e77df9&dl=6dea95a2fde0c65fed" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a> -->
 </div>
 </div>
 </div>
@@ -42,7 +55,7 @@
 Москва
 2018 год
 	</p>
-	<a href="https://vk.com/doc190245867_485725579?hash=e8dad120f1e80886d4&dl=8d552af46d982ec087" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a>
+	<!-- <a href="https://vk.com/doc190245867_485725579?hash=e8dad120f1e80886d4&dl=8d552af46d982ec087" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a> -->
 </div>
 </div>
 </div>
@@ -65,7 +78,7 @@
 «Робототехника в системе современного образования», - Москва:
 Издательский центр АНО «АИР», 2018, - 220 с. 
 	</p>
-	<a href="https://vk.com/doc190245867_482572591?hash=d6b30912eac77defda&dl=6e33c0c940c3f21f59" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a>
+	<!-- <a href="https://vk.com/doc190245867_482572591?hash=d6b30912eac77defda&dl=6e33c0c940c3f21f59" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a> -->
 </div>
 </div>
 </div>
