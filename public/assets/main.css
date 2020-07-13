@@ -271,6 +271,8 @@ a.text_nav:hover {
     }
     .pop_edu_v_magadan_1 {
         height: auto !important;
+        display: flex;
+        justify-content: center;
     }
     .fjsljdglsjg {
         min-height: auto !important;
