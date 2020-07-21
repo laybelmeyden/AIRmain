@@ -21,7 +21,7 @@
           </li>
           <li>
             <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
-            <a href="https://drive.google.com/file/d/1q3_azgpJBYgJTan_wHGCLqurUKpCVDDc/view?usp=sharing" target="blank" class="edu_uli_1">Отчет о деятельности</a>
+            <a href="https://drive.google.com/file/d/1q3_azgpJBYgJTan_wHGCLqurUKpCVDDc/view?usp=sharing" target="blank" class="edu_uli_1">Презентация, отчёт</a>
           </li>
           <p class="its_1">Отчет за 2018/2019 год:</p>
           <li>
