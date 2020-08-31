@@ -37,7 +37,7 @@ class MessagesController extends Controller
       );
        \Mail::send('email.mail2', $data, function($message1) use ($data, $to_email, $to_name)
     {
-        $message1->from($to_email, $data['email'], $data['name'], $data['message3']);
+        $message1->from($data['email'], $data['name'], $data['message3']);
         $message1->to($to_email)->subject('Message from site');
      });
      session()->flash('message', 'Ваша заявка отправлена!');
