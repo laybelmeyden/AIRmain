@@ -77,7 +77,7 @@
                     <img src="assets/img/hy3.png" class="responsive-img ht3">
                 </div>
                 <p class="pikona">{!! $solo->date !!}</p>
-                <p class="pikona2">{!! $solo->title !!} {{ $solo->minibody }}</p>
+                <p class="pikona2">{!! $solo->title !!}</p>
 
 <a href="#fuy" class="waves-effect waves-light btn pull_btn_1 kikikikikikikiki class{{ $solo->formaregi }}">УЧАСТВОВАТЬ</a>
 
