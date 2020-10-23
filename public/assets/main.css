@@ -3349,7 +3349,7 @@ nav ul a:hover {
 @media screen and (max-width:992px) {
     .sub_news {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
         margin-bottom: 60px;
     }
     .sub_news_text {
