@@ -3359,7 +3359,7 @@ nav ul a:hover {
     .main_news_img img {
         width: 90%;
         position: relative;
-        top: -60px;
+        top: 0px;
     }
     .main_news {
         margin-top: 30px;
