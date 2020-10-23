@@ -3345,3 +3345,20 @@ nav ul a:hover {
     word-break: break-word;
     padding-right: 20px;
 }
+
+@media screen and (max-width:992px) {
+    .sub_news {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 60px;
+    }
+    .sub_news_text {
+        padding-right: 00px;
+        order: 1;
+    }
+    .main_news_img img {
+        width: 90%;
+        position: relative;
+        top: -60px;
+    }
+}
