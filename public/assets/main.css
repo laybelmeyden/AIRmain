@@ -3293,3 +3293,55 @@ nav ul a:hover {
     font-size: 18px;
     font-family: 'Open Sans Semibold', sans-serif;
 }
+
+.main_news {
+    margin-top: 120px;
+    background-color: #0025af;
+}
+
+.main_news_img img {
+    width: 70%;
+    position: relative;
+    top: -60px;
+}
+
+.main_news_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.sub_news {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    margin-bottom: 60px;
+}
+
+.sub_news_title {
+    background-color: #0025af;
+    height: fit-content;
+}
+
+.sub_news_text {
+    padding-right: 40px;
+}
+
+.sub_news_title__p1 {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    padding-left: 20px;
+    margin-top: 40px;
+}
+
+.sub_news_title__p2 {
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    padding-left: 20px;
+    word-break: break-word;
+    padding-right: 20px;
+}
