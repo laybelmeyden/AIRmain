@@ -3361,4 +3361,14 @@ nav ul a:hover {
         position: relative;
         top: -60px;
     }
+    .main_news {
+        margin-top: 30px;
+        background-color: #0025af;
+    }
+    .main_news_img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: auto;
+    }
 }
