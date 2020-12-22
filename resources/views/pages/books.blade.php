@@ -16,6 +16,22 @@
 <div class="col l6 s12 m12 tupo_i">
 <div class="card horizontal pop_edu_v_magadan_1">
 <div class="card-image gover">
+	<img class="jajsfjasf" src="assets/img/books123.png">
+</div>
+<div class="card-stacked giti">
+<div class="card-content">
+	<p class="magad1_1" style="font-size:11px;">Практическое пособие по использованию инновационных технических средств и интерактивных технологий в проектах по патриотическому воспитанию и популяризации исторических знаний
+
+Издательский центр АНО "АИР" 2020 год
+	</p>
+	<a href="https://rusinnovations.com//storage/KK4WBQLrKxJcXHNQXEeNeg9skf4KJb0VVu4wpOV8.pdf" target="_blank" class="btn_magad_1 btn">СМОТРЕТЬ</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col l6 s12 m12 tupo_i">
+<div class="card horizontal pop_edu_v_magadan_1">
+<div class="card-image gover">
 	<img class="jajsfjasf" src="assets/img/air2020.png">
 </div>
 <div class="card-stacked giti">
