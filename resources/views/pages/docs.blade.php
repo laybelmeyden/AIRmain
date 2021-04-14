@@ -12,6 +12,10 @@
           <p class="its_1">Наши документы:</p>
           <li>
             <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
+            <a href="https://rusinnovations.com//storage/z5uoqHyhDO8IGw3rejj0xKJtr2BYaNUpChHghqFa.pdf" target="blank" class="edu_uli_1">Упрощенная бухгалтерская (финансовая) отчетность 2020 г АНО АИР.pdf</a>
+          </li>
+          <li>
+            <img class="responsive-img edu_ul" src="assets/img/el_sin.png">
             <a href="https://drive.google.com/file/d/1h5Ah53ufixh8KXoKplG9ozlJYCdfuOT7/view?usp=sharing" target="blank" class="edu_uli_1">Устав</a>
           </li>
           <li>
