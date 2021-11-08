@@ -35,8 +35,10 @@
 
   <div class="col l3 m12 s12 fara">
        <a href="/promero{{ $eventpros->id }}"> 
-       <li class="portfolio-item_1">
-          <img src="storage/{{ $eventpros->preimg }}" class="img-responsive jgajjglsajgl">
+       <li class="portfolio-item_1" style="background-image:url(storage/{{$eventpros->image}});background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;">
+          <!-- <img src="storage/{{ $eventpros->preimg }}" class="img-responsive jgajjglsajgl"> -->
           <figcaption class="mask_1">
             <p class="ev1">{{ $eventpros->title }}</p>
             <p class="ev2">{{ $eventpros->minibody }}</p>

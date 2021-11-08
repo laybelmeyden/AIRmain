@@ -84,7 +84,8 @@ position: relative;
           <div class="card-content pull_card_content">
             <p class="pull_text">ВСЕРОССИЙСКАЯ
               <br> ПРОГРАММА
-              <br> IT-START</p>
+              <br> IT-START
+            </p>
           </div>
           <a href="#modal1" class="waves-effect waves-light btn pull_btn">ПОДРОБНЕЕ</a>
         </div>
@@ -95,7 +96,8 @@ position: relative;
             <a href="/itstart" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Программа поддержки молодых программистов
               <br> и молодежных проектов
-              <br> в сфере информационных технологий.</p>
+              <br> в сфере информационных технологий.
+            </p>
           </div>
         </div>
       </div>
@@ -139,7 +141,8 @@ position: relative;
           <div class="modal-content modal_con">
             <img src="assets/img/chel_sin3.png"></img>
             <h4 class="modal_size1">Наука
-              <br>НИЦ АНО АИР<br>Публикации и конференции<br>Книги и пособия</h4>
+              <br>НИЦ АНО АИР<br>Публикации и конференции<br>Книги и пособия
+            </h4>
             <a href="/publication" class="waves-effect waves-light btn modal_button">ПОДРОБНЕЕ</a>
             <p class="modal_p_1">Публикация результатов научных исследований аспирантов, соискателей и докторантов российских и зарубежных ВУЗов и научных центров.</p>
           </div>
@@ -155,7 +158,8 @@ position: relative;
             <p class="pull_text3">DIGITAL и
               <br> Дизайн Студия
               <br> AIR CREATIVE
-              <br>GROUP.</p>
+              <br>GROUP.
+            </p>
           </div>
           <a href="#modal4" class="waves-effect waves-light btn pull_btn">ПОДРОБНЕЕ</a>
         </div>
@@ -180,7 +184,8 @@ position: relative;
           <div class="card-content pull_card_content">
             <p class="pull_text">Конструкторы
               <br> образовательной
-              <br> робототехники</p>
+              <br> робототехники
+            </p>
           </div>
           <a href="#modal5" class="waves-effect waves-light btn pull_btn">ПОДРОБНЕЕ</a>
         </div>
@@ -205,7 +210,8 @@ position: relative;
           <div class="card-content pull_card_content">
             <p class="pull_text">международные
               <br> образовательные
-              <br> стажировки</p>
+              <br> стажировки
+            </p>
           </div>
           <a href="#modal6" class="waves-effect waves-light btn pull_btn">ПОДРОБНЕЕ</a>
         </div>
@@ -268,11 +274,11 @@ padding-bottom: 20px; color:#95969a;">
               <li class="flex_card_main">
                 <a class="" href="/new{{ $allnew->id }}">
                   <p class="news_date">{{ $allnew->date }}</p>
-                    <p class="news_title">
+                  <p class="news_title">
                     {{ str_limit($allnew->body,60) }}
-                    </p>
-                <div class="news_img_container">
-                  <img src="/storage/{{ $allnew->image }}" class="news_img_main">
+                  </p>
+                  <div class="news_img_container">
+                    <img src="/storage/{{ $allnew->image }}" class="news_img_main">
                   </div>
                 </a>
               </li>
@@ -303,8 +309,10 @@ padding-bottom: 20px; color:#95969a;">
       @if(!empty($events))
       <div class="col l3 m12 s12 fara">
         <a href="/mer{{ $events->id }}">
-          <li class="portfolio-item_1">
-            <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl">
+          <li class="portfolio-item_1" style="background-image:url(storage/{{$events->image}});background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;">
+            <!-- <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl"> -->
             <figcaption class="mask_1">
               <p class="ev1">{{ $events->title }}</p>
               <p class="ev2">{{ $events->minibody }}</p>
