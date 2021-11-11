@@ -309,10 +309,11 @@ padding-bottom: 20px; color:#95969a;">
       @if(!empty($events))
       <div class="col l3 m12 s12 fara">
         <a href="/mer{{ $events->id }}">
-          <li class="portfolio-item_1" style="background-image:url(storage/{{$events->image}});background-position: inherit;
+          <li class="portfolio-item_1">
+          <!-- style="background-image:url(storage/{{$events->image}});background-position: inherit;
     background-repeat: no-repeat;
-    background-size: cover;">
-            <!-- <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl"> -->
+    background-size: cover;" -->
+            <img src="storage/{{ $events->preimg }}" class="img-responsive jgajjglsajgl">
             <figcaption class="mask_1">
               <p class="ev1">{{ $events->title }}</p>
               <p class="ev2">{{ $events->minibody }}</p>
